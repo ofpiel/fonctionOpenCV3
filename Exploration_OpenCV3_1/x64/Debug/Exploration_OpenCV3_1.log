@@ -1,2 +1,5 @@
-﻿  ListeFonctions.cpp
-  Exploration_OpenCV3_1.vcxproj -> C:\Users\user\Documents\Visual Studio 2017\Projects\Exploration_OpenCV3_1\x64\Debug\Exploration_OpenCV3_1.exe
+﻿  pch.cpp
+  Exploration_OpenCV3_1.cpp
+  ListeFonctions.cpp
+  Generating Code...
+  Exploration_OpenCV3_1.vcxproj -> C:\Users\user\Documents\GitHub\fonctionOpenCV3\x64\Debug\Exploration_OpenCV3_1.exe
